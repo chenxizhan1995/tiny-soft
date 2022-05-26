@@ -11,7 +11,7 @@ https://ftp.mozilla.org/pub/mobile/releases/
 
 ## 模板目录
 ### 1. SpringBoot 2.7.0 demo
-template/springboot-web-2.7.0-demo.zip
+#### template/springboot-web-2.7.0-demo.zip
 - springboot 2.7.0
 - jdk8
 - spring web
@@ -19,4 +19,9 @@ template/springboot-web-2.7.0-demo.zip
 - mybatis framework
 
 https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.0&packaging=jar&jvmVersion=1.8&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&dependencies=web,mysql,mybatis
+#### template/springboot-web-2.7.0-demo-v2.zip
+2022-05-26 更新，在 template/springboot-web-2.7.0-demo.zip 的基础上，
+- 删除了 .mvn，mvmw, mvnw.bat, HELP.md 文件
+- 增加 application.yml, application-dev.yml, application-test.yml application-production.yml
+- 增加 HealthCheck 类
 
