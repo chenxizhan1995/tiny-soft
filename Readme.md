@@ -25,3 +25,5 @@ https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.0
 - 增加 application.yml, application-dev.yml, application-test.yml application-production.yml
 - 增加 HealthCheck 类
 
+### 2. Maven quick start demo
+template/maven-quickstart-demo.zip
