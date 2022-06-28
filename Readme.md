@@ -27,3 +27,10 @@ https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.0
 
 ### 2. Maven quick start demo
 template/maven-quickstart-demo.zip
+### 3. SpringBoot App 2.7.1 demo
+
+springboot-app-2.7.1.zip
+
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.1&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&dependencies=mysql,mybatis,freemarker,jdbc,oracle
+
+
